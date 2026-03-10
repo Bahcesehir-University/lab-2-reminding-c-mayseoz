@@ -110,7 +110,7 @@ public:
     // Grade: <grade>
    void printInfo(){
        cout <<"name "<< name << endl;
-       cout<< "grade"<< grade<<endl;
+       cout<< "grade"<< grade <<endl;
        
         
     }
